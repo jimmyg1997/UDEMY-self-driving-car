@@ -4,8 +4,8 @@
 * This course aims to harness the power behind deep learning & computer vision to build a fully functional self-driving car. Cars are typically driven around and trained on real roads by manual drivers and then they are trained on data and clone the behavior of manual drivers!
 
 * We used the Udacity simulator to take images in the movement of the car (3 laps in both directions to avoid biased samples)
-  $$X_{train} = snapshot, y_{train} = steering angle$$
-  ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D) 
-* Input the $X_{train}$ into a CNN network in order to train model to adjust the steering angle
+  * X-train = snapshot
+  * y-train  = steering angle
+* Input the X-train  into a CNN network in order to train model to adjust the steering angle
 
 ### 
