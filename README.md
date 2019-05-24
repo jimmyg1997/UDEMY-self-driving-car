@@ -1,1 +1,1 @@
-# The Complete Self Driving Car Course : [ Applied Deep Learning ]
+# The Complete Self-Driving Car Course -  Applied Deep Learning 
