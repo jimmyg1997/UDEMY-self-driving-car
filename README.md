@@ -1,7 +1,5 @@
 # The Complete Self-Driving Car Course -  Applied Deep Learning 
----
 ## Welcome to the Repository for Self-Driving Car Course
----
 
 * This course aims to harness the power behind deep learning & computer vision to build a fully functional self-driving car. Cars are typically driven around and trained on real roads by manual drivers and then they are trained on data and clone the behavior of manual drivers!
 
