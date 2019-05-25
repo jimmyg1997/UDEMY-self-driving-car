@@ -194,19 +194,19 @@
 
   * Use **kernel matrix** (filter) to stride, parsing the image in receptive fields, multiplying the corresponding cells and divide by 9 (if 3x3 kernel), finally creating the feature map. <u>After</u> using convolution layer, we use **relu** activation function to the feature map
 
-    ![image-20190512053647168](/Users/jimmyg1997/Library/Application Support/typora-user-images/image-20190512053647168.png)
+    ![image-20190512053647168](images/image-20190512053647168.png)
 
     * **Edge detection**:
 
-      ![image-20190512053752133](/Users/jimmyg1997/Library/Application Support/typora-user-images/image-20190512053752133.png)
+      ![image-20190512053752133](images/image-20190512053752133.png)
 
     * **Sobel Edge Operator**:
 
-      ![image-20190512053829824](/Users/jimmyg1997/Library/Application Support/typora-user-images/image-20190512053829824.png)
+      ![image-20190512053829824](images/image-20190512053829824.png)
 
     * **Laplacian operator**:
 
-      ![image-20190512053850970](/Users/jimmyg1997/Library/Application Support/typora-user-images/image-20190512053850970.png)
+      ![image-20190512053850970](images/image-20190512053850970.png)
 
   * **Translational Invariance**: The kernel find a feature, it may detect the same somewhere else, NO matter where it is.
 
